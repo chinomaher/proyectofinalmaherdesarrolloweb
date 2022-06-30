@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ronnielas/proyectofinal.git"
+    "url": "git+https://github.com/chinomaher/proyectofinalmaherdesarrolloweb"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ronnielas/proyectofinal/issues"
+    "url": "hhttps://github.com/chinomaher/proyectofinalmaherdesarrolloweb"
   },
-  "homepage": "https://github.com/Ronnielas/proyectofinal#readme",
+  "homepage": "https://github.com/chinomaher/proyectofinalmaherdesarrolloweb",
   "devDependencies": {
     "node-sass": "^6.0.1",
     "nodemon": "^2.0.12"
